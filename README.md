@@ -15,7 +15,7 @@ Make sure your password is set! You can do this in preferences
 4. Navigate to the project folder
    1. ```cd hello-everyone```
 5. Create a new branch
-   1. ```git checkout -b name```
+   1. ```git checkout -b <name>```
 6. In the next few steps we will use vim (a text editor) to edit two files
    1. ```vim main.go```
 7. Press i on the keyboard to enter insert mode and use the arrow keys to navigate to line 14
